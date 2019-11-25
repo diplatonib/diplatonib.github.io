@@ -1,6 +1,7 @@
 # diplatonib.github.io
 
 <a href="https://diplatonib.github.io">Бурно развивающийся сайт о фронтэнд разработке - diplatonib.github.io</a>
+
 Just few pages to practice
 
 It's just my first commit in git. <br>
